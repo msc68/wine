@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Kaapzicht Pinotage",
+		"country": "Südafrika",
+		"region": "",
+		"grape": "Pinotage",
+		"type": "Rot",
+		"seller": "savinis.ch",
+		"currency": "Fr.",
+		"price": "20.00"
+	},
+	{
+		"name": "Diemersfontein",
+		"country": "Südafrika",
+		"region": "",
+		"grape": " ",
+		"type": "Rot",
+		"seller": "Galaxus",
+		"currency": "Fr.",
+		"price": "16.50"
+	},
+	{
+		"name": "Ojo de Agua Malbec 2017",
+		"country": "Argentinien",
+		"region": "",
+		"grape": "Malbec",
+		"type": "Rot",
+		"seller": "Globus",
+		"currency": "Fr.",
+		"price": "17.90"
+	}
+]
